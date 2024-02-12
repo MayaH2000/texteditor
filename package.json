@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "engines": {
+    "node": "v21.6.1"
+  },
   "scripts": {
     "build": "webpack --config webpack.config.js",
     "start:dev": "",
